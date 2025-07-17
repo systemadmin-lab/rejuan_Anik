@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Passionate Learner | 💻 Code Craftsman | 📈 Future Tech Leader</h2>
 
 <p align="center">
-  <a href="https://github.com/rejuan-anik">
+  <a href="https://github.com/systemadmin-lab">
     <img src="https://img.shields.io/github/followers/rejuan-anik?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   &nbsp; &nbsp;
