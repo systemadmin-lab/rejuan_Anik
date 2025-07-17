@@ -1,6 +1,6 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I+am+Rejuan+Anik!;Full+Stack+Developer+in+Making!;Lover+of+Clean+Code+and+UI+Magic!&center=true&width=500&height=45&color=00FFBF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36FFC4&center=true&vCenter=true&width=600&height=50&lines=Hey+There!+👋;I+am+Rejuan+Anik+💻;Full-Stack+Developer+in+Making+🚀;Pixel+Perfect+UI+%2B+Clean+Code+❤️;React%2C+Redux%2C+Tailwind+Expert+⚛️;Always+Learning%2C+Always+Building+📚" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🚀 Passionate Learner | 💻 Code Craftsman | 📈 Future Tech Leader</h2>
@@ -37,12 +37,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rejuan-anik&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rejuan-anik&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=systemadmin-lab&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=systemadmin-lab&theme=radical&hide_border=true" width="47%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejuan-anik&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemadmin-lab&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="60%" />
 </p>
-
 ---
 
 ## 🧠 Currently Exploring
