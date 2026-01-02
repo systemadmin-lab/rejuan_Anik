@@ -67,5 +67,5 @@
 
 ---
 
-> 🧿 “Code is like poetry — it has rhythm, logic, and beauty.”  
+>  “Code is like poetry — it has rhythm, logic, and beauty.”  
 > _– Rejuan Anik_
