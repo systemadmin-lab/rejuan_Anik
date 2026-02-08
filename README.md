@@ -67,5 +67,6 @@
 
 ---
 
->  “Code is like poetry — it has rhythm, logic, and beauty.”  
+>  “Code is like poetry — it has rhythm, logic, and beauty.”
+> "The tech world doesn't need more AI chasers; it needs AI Architects who can cage the beast"
 > _– Rejuan Anik_
